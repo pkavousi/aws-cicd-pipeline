@@ -1,0 +1,1 @@
+This repository shows how to set up a CI/CD in AWS using Terraform
